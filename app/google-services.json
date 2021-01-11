@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660012318795",
+    "project_id": "gettime-baadc",
+    "storage_bucket": "gettime-baadc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660012318795:android:468a4795faaa9223208dce",
+        "android_client_info": {
+          "package_name": "com.example.gettime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660012318795-2o4esefm1mktclj7e3sgjhb7b14cfgdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggwD7CUd3WTRokxhK-uMSQxdWsYdsMR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660012318795-2o4esefm1mktclj7e3sgjhb7b14cfgdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
